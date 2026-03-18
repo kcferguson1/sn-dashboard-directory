@@ -81,7 +81,17 @@ Use this path when you want the full React application and can run a local build
 
 ---
 
-### Step A1: Build the JS bundle locally
+### Step A1: Get the JS bundle
+
+You have two options:
+
+**Option 1 — Download the pre-built bundle from GitHub (no build tools required)**
+
+1. Go to `https://github.com/kcferguson1/sn-dashboard-directory`
+2. Navigate to `dist/static/main.jsdbx`
+3. Click **Download raw file**
+
+**Option 2 — Build it locally from source**
 
 The build compiles all TypeScript, JSX, React, and CSS into `dist/static/main.jsdbx`.
 
